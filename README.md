@@ -49,6 +49,7 @@ At completion:
 - Incorrect answers are listed with correct solutions
 
 ## Future Improvements
+- Make the quiz in other languages
 - Load questions from an external JSON file
 - Add countdown timer per question
 - Store user performance history
